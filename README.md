@@ -6,3 +6,5 @@ We introduce a benchmark dataset, ROV6D, for 6D pose estimation of remotely oper
 
 Our dataset ROV6D dataset is partially released and can be found here ([BaiduNetDisk](https://pan.baidu.com/s/1TX1yuCJKgrnSY18H11E8tQ?pwd=brov), password: brov).
 The remaining data will be released in a future update.
+
+For any help, enquiries and comments, please contact me at tangjingyi96ll@gmail.com.
